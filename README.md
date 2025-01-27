@@ -55,7 +55,7 @@ seaborn
 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/customer-lookalike-analysis.git
+git clone (https://github.com/samvid753/Samvid_Verma_zeotap_assignment)
 cd customer-lookalike-analysis
 
 Run the Jupyter Notebook:
